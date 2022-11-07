@@ -41,3 +41,4 @@ Full report: https://ostif.org/the-ostif-and-quarkslab-audit-of-openssl-is-compl
 # [Managed Audit Program Initiative Proposal](https://github.com/Amir-Montazery/OSTIF/blob/main/Managed%20Audit%20Program/Proposal.md)
 
 # An overview of OSTIF's Security Reviews can be found [here](Completed-Engagements.md)
+# Open Source Project In Need Of Security Help? Check out [OSS Resources](https://github.com/ostif-org/OSTIF/tree/main/OSSResources)
