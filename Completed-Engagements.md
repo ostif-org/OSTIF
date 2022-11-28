@@ -12,6 +12,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     CloudEvents    |   September 2022   |         Security Review       |                [Results of the CloudEvents Security Assessment.](https://ostif.org/results-of-the-cloudevents-security-assessment/)                         | 
 |     Jackson-Core and Jackson-Databind    |   August 2022   |         Security Review, Threat Model, Fuzzing Suite Update       |                [Our Audits of Jackson-Core and Jackson-Databind are Complete.](https://ostif.org/our-audits-of-jackson-core-and-jackson-databind-are-complete/)                         | 
 |     Python-TUF    |   September 2022   |         Security Review       |                [Our Audit of Python-TUF is Complete. Multiple Issues Found and Fixed.](https://ostif.org/our-audit-of-python-tuf-is-complete-multiple-issues-found-and-fixed/)                         | 
 |     Backstage    |   April - August 2022   |         Security Review, Threat Model        |                [The OSTIF Audit of Backstage with X41 D-Sec is Complete!](https://ostif.org/the-ostif-audit-of-backstage-with-x41-d-sec-is-complete/)                          | 
