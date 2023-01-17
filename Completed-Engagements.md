@@ -12,6 +12,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     Git    |   January 2023   |         Security Review, Threat Model       |[The Audit of Git is Complete!](https://ostif.org/the-audit-of-git-is-complete/)        |
 |     cURL    |   October 2022   |         Security Review, Threat Model       |[Results of curl Security Audit.](https://ostif.org/the-ostif-audit-of-curl-with-trail-of-bits-is-complete/)                         |
 |     CloudEvents    |   September 2022   |         Security Review       |                [Results of the CloudEvents Security Assessment.](https://ostif.org/results-of-the-cloudevents-security-assessment/)                         | 
 |     Jackson-Core and Jackson-Databind    |   August 2022   |         Security Review, Threat Model, Fuzzing Suite Update       |                [Our Audits of Jackson-Core and Jackson-Databind are Complete.](https://ostif.org/our-audits-of-jackson-core-and-jackson-databind-are-complete/)                         | 
