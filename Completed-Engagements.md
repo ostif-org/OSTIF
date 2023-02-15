@@ -12,6 +12,10 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     Cilium    |   February 2023   |         Security Review, Threat Model, Fuzzing Improvements, SLSA Assessment       |[Our Audit of Cilium is Complete!](https://ostif.org/our-audit-of-cilium-is-complete/)        |
+|     KEDA    |   February 2023   |         Security Review, Threat Modeling       |[Our Audit of Kubernetes Event Driven Autoscaling (KEDA) is Complete](https://ostif.org/our-audit-of-kubernetes-event-driven-autoscaling-keda-is-complete/)        |
+|     Independent Security Audit Impact Report    |   February 2023   |         Security Reviews, Threat Models, Tooling Improvements       |[The OSTIF Independent Security Audit Impact Report](https://ostif.org/the-ostif-independent-security-audit-impact-report/)        |
+|     Istio    |   January 2023   |         Security Review, Threat Model, Fuzzing Improvements, SLSA Assessment       |[The Audit of Istio is Complete!](https://ostif.org/the-audit-of-istio-is-complete/)        |
 |     Git    |   January 2023   |         Security Review, Threat Model       |[The Audit of Git is Complete!](https://ostif.org/the-audit-of-git-is-complete/)        |
 |     cURL    |   October 2022   |         Security Review, Threat Model       |[Results of curl Security Audit.](https://ostif.org/the-ostif-audit-of-curl-with-trail-of-bits-is-complete/)                         |
 |     CloudEvents    |   September 2022   |         Security Review       |                [Results of the CloudEvents Security Assessment.](https://ostif.org/results-of-the-cloudevents-security-assessment/)                         | 
