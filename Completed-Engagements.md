@@ -8,7 +8,7 @@
 
 **400+** Security Vulnerabilities Found and Patched
 
-### The following is a list of engagements coordinated by OSTIF. PDF versions of the full report(s) can be found at the bottom of the page linked under deliverable.
+### The following is a list of engagements organized by OSTIF. PDF versions of the full report(s) can be found at the bottom of the page linked under deliverable.
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
