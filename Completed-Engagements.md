@@ -12,6 +12,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     git Software Supply Chain Audit    |   February 2023   |         SLSA Assessment       |[Our Software Supply Chain Audit of Git for Windows is Complete!](https://ostif.org/our-software-supply-chain-audit-of-git-for-windows-is-complete/)       |
 |     Cilium    |   February 2023   |         Security Review, Threat Model, Fuzzing Improvements, SLSA Assessment       |[Our Audit of Cilium is Complete!](https://ostif.org/our-audit-of-cilium-is-complete/)        |
 |     KEDA    |   February 2023   |         Security Review, Threat Modeling       |[Our Audit of Kubernetes Event Driven Autoscaling (KEDA) is Complete](https://ostif.org/our-audit-of-kubernetes-event-driven-autoscaling-keda-is-complete/)        |
 |     Independent Security Audit Impact Report    |   February 2023   |         Security Reviews, Threat Models, Tooling Improvements       |[The OSTIF Independent Security Audit Impact Report](https://ostif.org/the-ostif-independent-security-audit-impact-report/)        |
