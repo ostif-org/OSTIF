@@ -12,7 +12,8 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
-|     2022 CNCF Impact Report    |   July 2022 - February 2023   |         Security Reviews, Threat Models, Ruzzing Improvements, SLSA Assessments       |[The OSTIF Impact Report for the Cloud Native Computing Foundation](https://ostif.org/the-ostif-impact-report-for-the-cloud-native-computing-foundation/)       |
+|     Falco    |   March 2023   |         Security Reviews, Threat Modeling, Fuzzing Improvements       |[Our Review of Falco is Complete!](https://ostif.org/our-review-of-falco-is-complete/)       |
+|     2022 CNCF Impact Report    |   July 2022 - February 2023   |         Security Reviews, Threat Models, Fuzzing Improvements, SLSA Assessments       |[The OSTIF Impact Report for the Cloud Native Computing Foundation](https://ostif.org/the-ostif-impact-report-for-the-cloud-native-computing-foundation/)       |
 |     git Software Supply Chain Audit    |   February 2023   |         SLSA Assessment       |[Our Software Supply Chain Audit of Git for Windows is Complete!](https://ostif.org/our-software-supply-chain-audit-of-git-for-windows-is-complete/)       |
 |     Cilium    |   February 2023   |         Security Review, Threat Model, Fuzzing Improvements, SLSA Assessment       |[Our Audit of Cilium is Complete!](https://ostif.org/our-audit-of-cilium-is-complete/)        |
 |     KEDA    |   February 2023   |         Security Review, Threat Modeling       |[Our Audit of Kubernetes Event Driven Autoscaling (KEDA) is Complete](https://ostif.org/our-audit-of-kubernetes-event-driven-autoscaling-keda-is-complete/)        |
