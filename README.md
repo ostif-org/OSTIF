@@ -3,7 +3,7 @@ The Open Source Technology Improvement Fund, Inc (OSTIF) is a corporate non-prof
 
 
 # How does OSTIF add value?
-OSTIF adds value to the open-source ecosystem by making it easy for critical projects and the organizations and communities that depend on these projects to get expert security review. The process focuses on comprehensively improving security posture through closing classes of bugs, fixing vulnerabilities, and improving tooling. To date, OSTIF has facilitated 20+ engagements, resulting in thousands of hours of review, hundreds of bug fixes (including 26 critical/high risk vulnerabilities), and improved security in the open-source ecosystem. 
+OSTIF adds value to the open-source ecosystem by making it easy for critical projects and the organizations and communities that depend on these projects to get expert security review. The process focuses on comprehensively improving security posture through closing classes of bugs, fixing vulnerabilities, and improving tooling. 
 
 # Preview of results:
 
