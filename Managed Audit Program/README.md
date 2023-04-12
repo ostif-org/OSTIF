@@ -1,0 +1,1 @@
+The Managed Audit Program was presented to OpenSSF and its partners between August 2021 and July 2022. A number of audits were funded and organized by Open Source Technology Improvement Fund, Inc as a result. The Impact Report summarizing this effort can be found at: https://ostif.org/the-ostif-independent-security-audit-impact-report/ 
