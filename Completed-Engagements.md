@@ -12,6 +12,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     SimpleJSON   |   April 2023   |         Security Reviews, Fuzzing Improvements       |[Our Audit of SimpleJSON is Complete!](https://ostif.org/our-audit-of-simplejson-is-complete/)       |
 |     2022 OSTIF Annual Report   |   March 2023   |         Security Reviews, Threat Modeling, Fuzzing Improvements       |[The 2022 OSTIF Annual Report](https://ostif.org/the-ostif-2022-annual-report/)       |
 |     Falco    |   March 2023   |         Security Reviews, Threat Modeling, Fuzzing Improvements       |[Our Review of Falco is Complete!](https://ostif.org/our-review-of-falco-is-complete/)       |
 |     2022 CNCF Impact Report    |   July 2022 - February 2023   |         Security Reviews, Threat Models, Fuzzing Improvements, SLSA Assessments       |[The OSTIF Impact Report for the Cloud Native Computing Foundation](https://ostif.org/the-ostif-impact-report-for-the-cloud-native-computing-foundation/)       |
