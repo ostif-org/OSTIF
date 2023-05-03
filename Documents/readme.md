@@ -15,8 +15,11 @@ Audit Questionnaire Form - link: https://docs.google.com/document/d/1IPFBKdppsjd
 Open Source Security Audit Minimum Standards and Expectations - link: https://docs.google.com/document/d/19ug1JSEFs_0-Tj2B4Co7rE7bMkZGDL_45VDKnBD0bNc/
 
 ### Funding Security Audits and OSTIF
+
 2023-2024 Prospectus - link: TBD
 
 
 
-Accessing Documents: Some documents might require you to request access. This is likely the case for documents that are used internally and not designed for public consumption. 
+### Document Access
+
+Some documents might require you to request access. This is likely the case for documents that are used internally and not designed for public consumption. 
