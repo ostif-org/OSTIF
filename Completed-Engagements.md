@@ -12,6 +12,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     C-ares   |   May 2023   |         Security Review, Fuzzing Improvements       |[Our Audit of c-ares is Complete!](https://ostif.org/our-audit-of-c-ares-is-complete/)       |
 |     Libcap   |   May 2023   |         Security Review, Fuzzing Improvements       |[Our Audit of Libcap is Complete!](https://ostif.org/our-audit-of-libcap-is-complete/)       |
 |     SimpleJSON   |   April 2023   |         Security Review, Fuzzing Improvements       |[Our Audit of SimpleJSON is Complete!](https://ostif.org/our-audit-of-simplejson-is-complete/)       |
 |     2022 OSTIF Annual Report   |   March 2023   |         Security Reviews, Threat Modeling, Fuzzing Improvements       |[The 2022 OSTIF Annual Report](https://ostif.org/the-ostif-2022-annual-report/)       |
