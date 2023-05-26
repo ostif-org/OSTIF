@@ -12,6 +12,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     in-toto   |   May 2023   |         Security Review       |[Our Audit of in-toto is Complete!](https://ostif.org/our-audit-of-in-toto-is-complete/)       |
 |     C-ares   |   May 2023   |         Security Review, Fuzzing Improvements       |[Our Audit of c-ares is Complete!](https://ostif.org/our-audit-of-c-ares-is-complete/)       |
 |     Libcap   |   May 2023   |         Security Review, Fuzzing Improvements       |[Our Audit of Libcap is Complete!](https://ostif.org/our-audit-of-libcap-is-complete/)       |
 |     SimpleJSON   |   April 2023   |         Security Review, Fuzzing Improvements       |[Our Audit of SimpleJSON is Complete!](https://ostif.org/our-audit-of-simplejson-is-complete/)       |
