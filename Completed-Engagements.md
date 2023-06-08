@@ -12,6 +12,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     go-tuf   |   May 2023   |         Security Review       |[go-tuf on bugs! OSTIF’s audit of go-tuf!](https://ostif.org/go-tuf-on-bugs-ostifs-audit-of-go-tuf/)       |
 |     Vitess   |   May 2023   |         Security Review, Fuzzing Improvements       |[Our Audit of Vitess is Complete!](https://ostif.org/our-audit-of-vitess-is-complete/)       |
 |     in-toto   |   May 2023   |         Security Review       |[Our Audit of in-toto is Complete!](https://ostif.org/our-audit-of-in-toto-is-complete/)       |
 |     C-ares   |   May 2023   |         Security Review, Fuzzing Improvements       |[Our Audit of c-ares is Complete!](https://ostif.org/our-audit-of-c-ares-is-complete/)       |
