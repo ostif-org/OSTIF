@@ -12,6 +12,9 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     Equinox p2   |   July 2023   |         Security Review, Tooling Review       |[OSTIF’s Audit of Equinox P2 is Complete!](https://ostif.org/go-tuf-on-bugs-ostifs-audit-of-go-tuf/)       |
+|     libjpegturbo   |   July 2023   |         Security Review       |[Our Audit of libjpeg-turbo is Complete!](https://ostif.org/our-audit-of-libjpeg-turbo-is-complete/)/)       |
+|     Notation   |   July 2023   |         Security Review, Fuzzing Improvements, SLSA Assessment       |[OSTIF’s Security Audit of Notation-duly Noted!](https://ostif.org/2023-14/)       |
 |     go-tuf   |   June 2023   |         Security Review       |[go-tuf on bugs! OSTIF’s audit of go-tuf!](https://ostif.org/go-tuf-on-bugs-ostifs-audit-of-go-tuf/)       |
 |     Vitess   |   May 2023   |         Security Review, Fuzzing Improvements       |[Our Audit of Vitess is Complete!](https://ostif.org/our-audit-of-vitess-is-complete/)       |
 |     in-toto   |   May 2023   |         Security Review       |[Our Audit of in-toto is Complete!](https://ostif.org/our-audit-of-in-toto-is-complete/)       |
