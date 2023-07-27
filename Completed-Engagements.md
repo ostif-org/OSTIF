@@ -10,6 +10,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     Crossplane   |   July 2023   |         Security Review, Fuzzing Improvements, Supply Chain Assessment, Threat Model       |[OSTIF completes Security Audit of Crossplane-improved across the board!](https://ostif.org/crossplane-audit-complete/)       |
 |     Mozilla K-9   |   July 2023   |         Security Review, Supply Chain Assessment, Threat Model       |[OSTIF’s Security Audit of K-9 Mail is Complete!](https://ostif.org/k-9-mail-audit/)       |
 |     Equinox p2   |   July 2023   |         Security Review, Tooling Review       |[OSTIF’s Audit of Equinox P2 is Complete!](https://ostif.org/2023-15/)       |
 |     libjpegturbo   |   July 2023   |         Security Review       |[Our Audit of libjpeg-turbo is Complete!](https://ostif.org/our-audit-of-libjpeg-turbo-is-complete/)       |
