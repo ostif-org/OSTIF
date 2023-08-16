@@ -1,6 +1,6 @@
 # Key Metrics
 
-**50+** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
+**70+** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
 
 ****10,000+**** Hours of Coordinated Security Review
 
