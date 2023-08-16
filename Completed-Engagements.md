@@ -10,8 +10,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
-
-|     Envoy Proxy   |   July 2023   |         Bug Triage and Fixes, Fuzzing Performance Improvements       |[OSTIF collaborates with the Envoy Team to further improve security posture.](https://ostif.org/envoy-security-audit/)       |
+|     Envoy Proxy   |   July 2023   |         Bug Triage and Fixes, Fuzzing Performance Improvements      |[OSTIF collaborates with the Envoy Team to further improve security posture.](https://ostif.org/envoy-security-audit/)       |
 |     Crossplane   |   July 2023   |         Security Review, Fuzzing Improvements, Supply Chain Assessment, Threat Model       |[OSTIF completes Security Audit of Crossplane-improved across the board!](https://ostif.org/crossplane-audit-complete/)       |
 |     Mozilla K-9   |   July 2023   |         Security Review, Supply Chain Assessment, Threat Model       |[OSTIF’s Security Audit of K-9 Mail is Complete!](https://ostif.org/k-9-mail-audit/)       |
 |     Equinox p2   |   July 2023   |         Security Review, Tooling Review       |[OSTIF’s Audit of Equinox P2 is Complete!](https://ostif.org/2023-15/)       |
