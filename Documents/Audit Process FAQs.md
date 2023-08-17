@@ -1,11 +1,11 @@
 ## What is the process of an audit?
-Depending on the project, after an initial meeting to gauge needs of the Project Representatives, a unique RFP (Request For Proposals) is built and submitted to trusted teams for them to build a proposal. Once a proposal is accepted, the Audit Team and Project Representatives will have a kickoff meeting to nail out details and begin the audit. Once the security audit is complete, the Audit Team will write and submit a report for publication with all parties involved. Once published, the project is considered complete. 
+Depending on the project, after an initial meeting to gauge needs of the Project Representatives, a unique RFP (Request For Proposals) is built and submitted to trusted teams for them to build a proposal. Once a proposal is accepted, the Audit Team and Project Representatives will have a kickoff meeting to discuss details and begin the audit. Once the security audit is complete, the Audit Team will write and submit a report for publication with all parties involved. Once published, the project is considered complete. 
 
 ## How long does an audit take to complete?
-It fluctuates. Depending on the scope and teams involved, audit steps can take between 2-4 weeks, with additional time for the security audit itself. 
+It fluctuates based on schedules and availability. Generally the whole process start to finish takes about 3 to 4 months. 
 
 ## What is the time commitment involved?
-OSTIF understands and respects individual needs and personal time. We aim to make this process as invasive as possible, with no added burden on the Project Representatives. That said, audits where the two teams work together and communicate well are highly successful and garner results that eclipse the audits that lack that teamwork. 
+OSTIF understands and respects individual needs and personal time. We aim to make this process as seemless as possible, with no added burden on the Project Representatives. That said, audits where the two teams work together and communicate well are highly successful and garner results that eclipse the audits that lack that teamwork. 
 
 ## What deliverables are to be expected?
 At the end of the audit, a published report of all inconsistencies and their recommended patches and remediation will be available to all parties and the public. Any testing artifacts are the projects to keep and use in perpetuity. 
