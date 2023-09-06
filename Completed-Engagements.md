@@ -10,6 +10,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     Dapr   |   September 2023   |         Security Review, Fuzzing Improvements, Supply Chain Assessment, Threat Model       |  [Dampening Vulnerabilities in Dapr: Security Audit of Dapr](https://ostif.org/dapr-audit/)       |
 |     Envoy Proxy   |   August 2023   |         Bug Triage and Fixes, Fuzzing Performance Improvements      |[OSTIF collaborates with the Envoy Team to further improve security posture.](https://ostif.org/envoy-security-audit/)       |
 |     Crossplane   |   July 2023   |         Security Review, Fuzzing Improvements, Supply Chain Assessment, Threat Model       |[OSTIF completes Security Audit of Crossplane-improved across the board!](https://ostif.org/crossplane-audit-complete/)       |
 |     Mozilla K-9   |   July 2023   |         Security Review, Supply Chain Assessment, Threat Model       |[OSTIF’s Security Audit of K-9 Mail is Complete!](https://ostif.org/k-9-mail-audit/)       |
