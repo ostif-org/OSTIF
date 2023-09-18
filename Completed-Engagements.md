@@ -10,6 +10,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     OpenSearch   |   September 2023   |         Manual Code Review       |  [Bugs? Search Me!- OpenSearch Security Audit Completed!](https://ostif.org/opensearch-audit/)       |
 |     OSTIF's Security Expertise   |   September 2023   |         Visual Aggregate of OSTIF's Work       |  [View Here](https://drive.google.com/file/d/1pqQKfhpbiZ38mQe5Qufig1_Z7ig20V8u/view?usp=sharing)       |
 |     Dapr   |   September 2023   |         Security Review, Fuzzing Improvements, Supply Chain Assessment, Threat Model       |  [Dampening Vulnerabilities in Dapr: Security Audit of Dapr](https://ostif.org/dapr-audit/)       |
 |     Envoy Proxy   |   August 2023   |         Bug Triage and Fixes, Fuzzing Performance Improvements      |[OSTIF collaborates with the Envoy Team to further improve security posture.](https://ostif.org/envoy-security-audit/)       |
