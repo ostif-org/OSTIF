@@ -10,6 +10,8 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     Jetty   |   October 2023   |         Manual Code Review, Threat Model, Fuzzing and Static Analysis Tool Implementation       |  [OSTIF Has Completed an Audit of Jetty!](https://ostif.org/ostif-has-completed-an-audit-of-jetty/)       |
+|     wasmCloud   |   October 2023   |         Manual Code Review, Fuzzing       |  [OSTIF Has Completed A Security Audit of wasmCloud!](https://ostif.org/ostif-has-completed-a-security-audit-of-wasmcloud/)       |
 |     OpenSearch   |   September 2023   |         Manual Code Review       |  [Bugs? Search Me!- OpenSearch Security Audit Completed!](https://ostif.org/opensearch-audit/)       |
 |     JKube   |   September 2023   |         Threat Modeling, Manual Code Review       |  [jKube Security Audit Completed!](https://ostif.org/jkube-audit/)       |
 |     OSTIF's Security Expertise   |   September 2023   |         Visual Aggregate of OSTIF's Work       |  [View Here](https://drive.google.com/file/d/1pqQKfhpbiZ38mQe5Qufig1_Z7ig20V8u/view?usp=sharing)       |
