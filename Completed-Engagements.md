@@ -10,6 +10,8 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     flux   |   November 2023   |         Manual Code Review, Automated Testing       |  [In-Flux-ible on bugs- Flux undergoes Security Audit with OSTIF and Trail of Bits](https://ostif.org/flux-audit-complete/)
+|     rustVMM   |   November 2023   |         Manual Code Review       |  [RustVMM Security Audit with OSTIF is Complete!](https://ostif.org/rustvmm-audit-complete/)
 |     Jetty   |   October 2023   |         Manual Code Review, Threat Model, Fuzzing and Static Analysis Tool Implementation       |  [OSTIF Has Completed an Audit of Jetty!](https://ostif.org/ostif-has-completed-an-audit-of-jetty/)       |
 |     wasmCloud   |   October 2023   |         Manual Code Review, Fuzzing       |  [OSTIF Has Completed A Security Audit of wasmCloud!](https://ostif.org/ostif-has-completed-a-security-audit-of-wasmcloud/)       |
 |     OpenSearch   |   September 2023   |         Manual Code Review       |  [Bugs? Search Me!- OpenSearch Security Audit Completed!](https://ostif.org/opensearch-audit/)       |
