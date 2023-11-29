@@ -16,7 +16,7 @@ Open Source Security Audit Minimum Standards and Expectations - link: https://do
 
 ### Funding Security Audits and OSTIF
 
-2023-2024 Prospectus - link: TBD
+2023-2024 Prospectus - link: https://drive.google.com/file/d/1JXjSn3xQKOBtcXt60ELSksKUHzjByjxR/view?usp=drive_link
 
 
 
