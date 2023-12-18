@@ -10,6 +10,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     nvm   |   December 2023   |         Threat Modeling, Manual Code Review, Automated Testing, SLSA       |  [nvm Security Audit Complete](https://ostif.org/nvm-audit-complete/)                |
 |     Knative   |   November 2023   |         Threat Modeling, Manual Code Review, Automated Testing, SLSA       |  [Knative Security Audit Complete](https://ostif.org/knative-audit-complete/)
 |     Kyverno   |   November 2023   |         Threat Modeling, Manual Code Review, Automated Testing, SLSA       |  [Kyverno Security Audit Complete](https://ostif.org/kyverno-audit-complete/) 
 |    Mosquitto   |   November 2023   |         Threat Modeling, Manual Code Review, Automated Testing       |  [The Buzz about Mosquitto ‘s Security Audit!](https://ostif.org/mosquitto-security-audit/)    |
