@@ -10,6 +10,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     2023 Annual Report   |   Calendar Year 2023   |         Aggregate Results       |  [2023 OSTIF Annual Report](https://ostif.org/2023annualreport/)                |
 |     nvm   |   December 2023   |         Threat Modeling, Manual Code Review, Automated Testing, SLSA       |  [nvm Security Audit Complete](https://ostif.org/nvm-audit-complete/)                |
 |     Knative   |   November 2023   |         Threat Modeling, Manual Code Review, Automated Testing, SLSA       |  [Knative Security Audit Complete](https://ostif.org/knative-audit-complete/)
 |     Kyverno   |   November 2023   |         Threat Modeling, Manual Code Review, Automated Testing, SLSA       |  [Kyverno Security Audit Complete](https://ostif.org/kyverno-audit-complete/) 
