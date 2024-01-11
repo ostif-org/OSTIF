@@ -1,8 +1,8 @@
 # Key Metrics
 
-**80+** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
+**100+** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
 
-****10,000+**** Hours of Coordinated Security Review
+****15,000+**** Hours of Coordinated Security Review
 
 **480+** Security Vulnerabilities Found and Patched
 
@@ -10,6 +10,9 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     cubeFS   |   January 2024   |         Threat Modeling, Manual Code Review, Automated Testing, SLSA       |  [CubeFS Security Audit is Complete](https://ostif.org/cubefs-audit-complete/)                |
+|     2023 CNCF Audit Impact Report   |   Calendar Year 2023   |         Aggregate Results       |  [2023 Cloud Native Computing Foundation Audit Impact Report](https://ostif.org/2023-cloud-native-computing-foundation-audit-impact-report/)                |
+|     50th Audit Milestone   |   YTD   |         Top Vulnerability Types Found, Lessons Learned, Common Auditing Mistakes       |  [50th Audit Milestone](https://ostif.org/50th-audit-milestone/)                |
 |     2023 Annual Report   |   Calendar Year 2023   |         Aggregate Results       |  [2023 OSTIF Annual Report](https://ostif.org/2023annualreport/)                |
 |     nvm   |   December 2023   |         Threat Modeling, Manual Code Review, Automated Testing, SLSA       |  [nvm Security Audit Complete](https://ostif.org/nvm-audit-complete/)                |
 |     Knative   |   November 2023   |         Threat Modeling, Manual Code Review, Automated Testing, SLSA       |  [Knative Security Audit Complete](https://ostif.org/knative-audit-complete/)
