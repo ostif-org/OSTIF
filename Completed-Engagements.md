@@ -10,6 +10,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     php TUF   |   January 2024   |         Security Audit, Threat Modeling, Tooling Improvements       |  [PHP-TUF Audit Complete!](https://ostif.org/php-tuf-audit-complete/)               |
 |     Amazon Web Services & Eclipse Foundation Security Audit Impact Report   |   Calendar Year 2023   |         Aggregate Results       |  [Link to Post and Report](https://ostif.org/aws-ec-audit-report-2023/)               |
 |     cubeFS   |   January 2024   |         Threat Modeling, Manual Code Review, Automated Testing, SLSA       |  [CubeFS Security Audit is Complete](https://ostif.org/cubefs-audit-complete/)                |
 |     2023 CNCF Audit Impact Report   |   Calendar Year 2023   |         Aggregate Results       |  [2023 Cloud Native Computing Foundation Audit Impact Report](https://ostif.org/2023-cloud-native-computing-foundation-audit-impact-report/)                |
