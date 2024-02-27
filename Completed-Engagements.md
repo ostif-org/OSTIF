@@ -10,6 +10,8 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     cURL HTTP/3  |   February 2024   |    Manual Review, Fuzzing Improvements       |  [cURL Audit Complete!](https://ostif.org/curl-audit-complete/)               |
+|     Jackson-Dataformats and Jackson-Datatypes  |   February 2024   |    Manual Review, Threat Modeling, Fuzzing Improvements       |  [Audit of Jackson-Dataformats and Jackson-Datatypes Complete](https://ostif.org/dataformatsdatatypes-audit-complete/)               |
 |     php TUF   |   January 2024   |         Security Audit, Threat Modeling, Tooling Improvements       |  [PHP-TUF Audit Complete!](https://ostif.org/php-tuf-audit-complete/)               |
 |     Amazon Web Services & Eclipse Foundation Security Audit Impact Report   |   Calendar Year 2023   |         Aggregate Results       |  [Link to Post and Report](https://ostif.org/aws-ec-audit-report-2023/)               |
 |     cubeFS   |   January 2024   |         Threat Modeling, Manual Code Review, Automated Testing, SLSA       |  [CubeFS Security Audit is Complete](https://ostif.org/cubefs-audit-complete/)                |
