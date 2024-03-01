@@ -10,6 +10,7 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     llvm  |   March 2024   |    Manual Review, Fuzzing Setup and Improvements       |  [LLVM Audit Complete!](https://ostif.org/llvm-audit-complete/)               |
 |     cURL HTTP/3  |   February 2024   |    Manual Review, Fuzzing Improvements       |  [cURL Audit Complete!](https://ostif.org/curl-audit-complete/)               |
 |     Jackson-Dataformats and Jackson-Datatypes  |   February 2024   |    Manual Review, Threat Modeling, Fuzzing Improvements       |  [Audit of Jackson-Dataformats and Jackson-Datatypes Complete](https://ostif.org/dataformatsdatatypes-audit-complete/)               |
 |     php TUF   |   January 2024   |         Security Audit, Threat Modeling, Tooling Improvements       |  [PHP-TUF Audit Complete!](https://ostif.org/php-tuf-audit-complete/)               |
