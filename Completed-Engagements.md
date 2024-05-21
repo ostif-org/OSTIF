@@ -10,6 +10,8 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+ |     Kuksa  |   May 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [Kuksa Audit Complete!](https://ostif.org/kuksa-audit-complete/)               |
+ |     Cloud Custodian  |   April 2024   |    Manual Code Review, Automated Testing, Supply Chain Security Analysis       |  [CloudCustodian Audit Complete!](https://ostif.org/cc-audit-complete/)               |
  |     Bref  |   March 2024   |    Manual Code Review, Automated Testing       |  [bref Audit Complete!](https://ostif.org/bref-audit-complete/)               |
 |     cert-manager  |   March 2024   |    Threat Modeling, Manual Code Review, Automated Testing, SLSA       |  [cert-manager Audit Complete!](https://ostif.org/cert-manager-audit-complete/)               |
 |     llvm  |   March 2024   |    Manual Review, Fuzzing Setup and Improvements       |  [LLVM Audit Complete!](https://ostif.org/llvm-audit-complete/)               |
