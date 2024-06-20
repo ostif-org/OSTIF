@@ -4,12 +4,14 @@
 
 ****15,000+**** Hours of Coordinated Security Review
 
-**480+** Security Vulnerabilities Found and Patched
+**500+** Security Vulnerabilities Found and Patched
 
 ### The following is a list of engagements organized by OSTIF. PDF versions of the full report(s) can be found at the bottom of the page linked under deliverable.
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     Temurin  |   June 2024   |    Manual Code Review, Automated Testing       |  [Temurin Audit Complete!](https://ostif.org/temurin-audit-complete/)               |
+|     OpenSSL  |   June 2024   |    Manual Code Review, Automated Testing       |  [OpenSSL Audit Complete!](https://ostif.org/openssl-audit-complete/)               |
  |     Kuksa  |   May 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [Kuksa Audit Complete!](https://ostif.org/kuksa-audit-complete/)               |
  |     Cloud Custodian  |   April 2024   |    Manual Code Review, Automated Testing, Supply Chain Security Analysis       |  [CloudCustodian Audit Complete!](https://ostif.org/cc-audit-complete/)               |
  |     Bref  |   March 2024   |    Manual Code Review, Automated Testing       |  [bref Audit Complete!](https://ostif.org/bref-audit-complete/)               |
