@@ -1,15 +1,17 @@
 # Key Metrics
 
-**100+** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
+**200+** Severe Bugs Found and Patched (bugs that would have a CVSS score of “high” or “critical” rating)
 
-****15,000+**** Hours of Coordinated Security Review
+****20,000+**** Hours of Coordinated Security Review
 
-**500+** Security Vulnerabilities Found and Patched
+**750+** Security Vulnerabilities Found and Patched
 
 ### The following is a list of engagements organized by OSTIF. PDF versions of the full report(s) can be found at the bottom of the page linked under deliverable.
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     LitmusChaos  |   August 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [LitmusChaos Audit Complete!](https://ostif.org/litmuschaos-audit-complete/)               |
+|     Fastify  |   August 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [Fastify Audit Complete!](https://ostif.org/fastify-audit-complete/)               |
 |     Cloud Native Buildpacks  |   July 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [Cloud Native Buildpacks Audit Complete!](https://ostif.org/buildpacks-audit-complete/)               |
 |     Apache Commons  |   July 2024   |    Manual Code Review, Automated Testing       |  [Apache Commons Audit Complete!](https://ostif.org/apachec-audit-complete/)               |
 |     CycloneDDS  |   June 2024   |    Manual Code Review, Automated Testing       |  [CycloneDDS Audit Complete!](https://ostif.org/cyclndds-audit-complete/)               |
