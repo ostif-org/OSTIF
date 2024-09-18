@@ -10,6 +10,8 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     OperatorFabric  |   September 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [OperatorFabric Audit Complete!](https://ostif.org/operatorfabric-audit-complete/)               |
+|     SEAPATH  |   September 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [SEAPATH Audit Complete!](https://ostif.org/seapath-audit-complete/)               |
 |     LitmusChaos  |   August 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [LitmusChaos Audit Complete!](https://ostif.org/litmuschaos-audit-complete/)               |
 |     Fastify  |   August 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [Fastify Audit Complete!](https://ostif.org/fastify-audit-complete/)               |
 |     Cloud Native Buildpacks  |   July 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [Cloud Native Buildpacks Audit Complete!](https://ostif.org/buildpacks-audit-complete/)               |
