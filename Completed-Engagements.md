@@ -10,6 +10,14 @@
 
 |       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+|     Logback  |   February 2025   |    Manual Code Review, Automated Testing       |  [Logback Audit Complete!](https://ostif.org/logback-audit-complete/)        |
+|     Linkerd  |   February 2025   |    Manual Code Review, Automated Testing       |  [Linkerd Audit Complete!](https://ostif.org/linkerd-audit-complete/)        |
+|     HickoryDNS  |   February 2025   |    Manual Code Review, Automated Testing       |  [HickoryDNS Audit Complete!](https://ostif.org/hickorydns-audit-complete/)               |
+|     Notary Project Cryptography  |   January 2025   |    Manual Code Review, Automated Testing       |  [Notary Project Cryptography Audit Complete!](https://ostif.org/notaryproject-cryptography-audit-2025/)               |
+|     Karmada  |   January 2025   |    Threat Model, Manual Code Review, Automated Testing       |  [Karmada Audit Complete!](https://ostif.org/karmada-audit-complete/)               |
+|     Backstage  |   December 2024   |    Manual Code Review, Automated Testing   |  [Backstage Audit Complete!](https://ostif.org/operatorfabric-audit-complete/)               |
+|     Node.js Fuzzing  |   October 2024   |    Manual Code Review, Automated Testing       |  [Node.js Fuzzing Audit Complete!](https://ostif.org/node-js-fuzzing-audit-complete/)               |
+|     Express  |   October 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [Express Audit Complete!](https://ostif.org/express-audit-complete/)               |
 |     OperatorFabric  |   September 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [OperatorFabric Audit Complete!](https://ostif.org/operatorfabric-audit-complete/)               |
 |     SEAPATH  |   September 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [SEAPATH Audit Complete!](https://ostif.org/seapath-audit-complete/)               |
 |     LitmusChaos  |   August 2024   |    Threat Model, Manual Code Review, Automated Testing       |  [LitmusChaos Audit Complete!](https://ostif.org/litmuschaos-audit-complete/)               |
