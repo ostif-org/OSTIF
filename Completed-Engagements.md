@@ -101,8 +101,3 @@
 |     OpenSSL PRNG    | September 2018 |        Security Review        |                                [Our Review of the OpenSSL 1.1.1 Random Number Generation Update](https://ostif.org/the-ostif-and-quarkslab-audit-of-openssl-is-complete/)                               |   |
 |       OpenVPN       |    May 2017    |        Security Review        |                                    [The OpenVPN 2.4.0 Audit by OSTIF and QuarksLab Results](https://ostif.org/the-openvpn-2-4-0-audit-by-ostif-and-quarkslab-results/)                                    |   |
 |      Veracrypt      |  October 2016  |        Security Review        |                                                  [The VeraCrypt Audit Results](https://ostif.org/the-veracrypt-audit-results/)                                                 |   |
-
-
-This page is licensed under a Creative Commons Attribution 4.0 International License.
-
-See https://creativecommons.org/licenses/by/4.0/ for more details.
