@@ -97,7 +97,12 @@
 |       RandomX       |   August 2019  |        Security Review        |                          [Four Audits of RandomX for Monero and Arweave have been Completed](https://ostif.org/four-audits-of-randomx-for-monero-and-arweave-have-been-completed-results/)                         |   |
 |       OpenSSL       |  January 2019  |        Security Review        |                                     [The OSTIF and Quarkslab Audit of OpenSSL is Complete](https://ostif.org/the-ostif-and-quarkslab-audit-of-openssl-is-complete/)                                     |   |
 | Monero Bulletproofs |  October 2018  |        Security Review        |                        [The QuarksLab and Kudelski Security audits of Monero Bulletproofs are Complete](https://ostif.org/the-quarkslab-and-kudelski-security-audits-of-monero-bulletproofs-are-complete/)                        |   |
-| Monero Bulletproofs |    July 2018   |        Security Review        |                        [The QuarksLab and Kudelski Security audits of Monero Bulletproofs are Complete](https://ostif.org/the-quarkslab-and-kudelski-security-audits-of-monero-bulletproofs-are-complete/)                        |   |
+| Monero Bulletproofs |    July 2018   |        Security Review        |                        [The QuarksLab and Kudelski Security audits of Monero Bulletproofs are Complete](https://ostif.org/the-quarkslab-and-kudelski-security-audits-of-monero-bulletproofs-are-complete/)                        | |
 |     OpenSSL PRNG    | September 2018 |        Security Review        |                                [Our Review of the OpenSSL 1.1.1 Random Number Generation Update](https://ostif.org/the-ostif-and-quarkslab-audit-of-openssl-is-complete/)                               |   |
 |       OpenVPN       |    May 2017    |        Security Review        |                                    [The OpenVPN 2.4.0 Audit by OSTIF and QuarksLab Results](https://ostif.org/the-openvpn-2-4-0-audit-by-ostif-and-quarkslab-results/)                                    |   |
 |      Veracrypt      |  October 2016  |        Security Review        |                                                  [The VeraCrypt Audit Results](https://ostif.org/the-veracrypt-audit-results/)                                                 |   |
+
+
+This page is licensed under a Creative Commons Attribution 4.0 International License.
+
+See https://creativecommons.org/licenses/by/4.0/ for more details.
