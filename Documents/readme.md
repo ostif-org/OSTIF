@@ -5,7 +5,9 @@ Each file links to a page on the OSTIF website (ostif.org) or a living google do
 ### General Documents about OSTIF
 
 2024 Annual Report - link: https://ostif.org/ostif-2024-annual-report/
+
 2023 Annual Report - link: https://ostif.org/2023annualreport/
+
 2022 Annual Report - link: https://ostif.org/the-ostif-2022-annual-report/
 
 50th Audit Milestone - link: https://ostif.org/50th-audit-milestone/
