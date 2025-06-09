@@ -24,7 +24,9 @@ Open Source Security Audit Minimum Standards and Expectations - link: https://do
 
 2023-2024 Prospectus - link: https://drive.google.com/file/d/1FEwFJhQlIszg6wTKjjonP4b6v4F0s5vQ/
 
+### Code of Conduct
 
+Starting June 1, 2025, OSTIF enacted a Code of Conduct. The Code of Conduct can be found at: https://ostif.org/ostif-code-of-conduct/
 
 ### Document Access
 
