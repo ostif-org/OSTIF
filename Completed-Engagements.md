@@ -8,9 +8,10 @@
 
 ### The following is a list of engagements organized by OSTIF. PDF versions of the full report(s) can be found at the bottom of the page linked under deliverable.
 
-|       Product       |   Review Date  |             Result            |                                                          Deliverable                                                         ||
+|       Product       |   Review Date  |             Result            |    Deliverable         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
-| nghttp3 and ngtcp2 |   May 2025   |    Manual Code Review, Fuzzing      |  [nghttp3 and ngtcp2 Audit Complete!](https://ostif.org/nghttp3-ngtcp2-audits-complete/)        |
+| Log4CXX and Log4Net |   June 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [Log4CXX and Log4Net Audits Complete!](https://ostif.org/log4cxx-log4net-audits-complete/)       
+|     nghttp3 and ngtcp2  |   May 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [nghttp3 and ngtcp2 Audits Complete!](https://ostif.org/nghttp3-ngtcp2-audits-complete/)        |
 |     NATS  |   April 2025   |    Manual Code Review, Threat Modeling      |  [NATS Audit Complete!](https://ostif.org/nats-audit-complete/)        |
 |     Istio ztunnel  |   April 2025   |    Manual Code Review, Lightweight Threat Modeling      |  [Istio ztunnel Audit Complete!](https://ostif.org/istio-ztunnel-audit-complete/)        |
 |     PHP  |   April 2025   |    Manual Code Review, Automated Testing       |  [PHP Audit Complete!](https://ostif.org/php-audit-complete/)        |
