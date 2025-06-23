@@ -4,6 +4,8 @@ Each file links to a page on the OSTIF website (ostif.org) or a living google do
  
 ### General Documents about OSTIF
 
+OSTIF Code of Conduct - link: https://ostif.org/ostif-code-of-conduct/
+
 2024 Annual Report - link: https://ostif.org/ostif-2024-annual-report/
 
 2023 Annual Report - link: https://ostif.org/2023annualreport/
@@ -22,6 +24,7 @@ Open Source Security Audit Minimum Standards and Expectations - link: https://do
 
 ### Funding Security Audits and OSTIF
 
+Prospectus and Value Offering - link: https://drive.google.com/file/d/1aEssdzy99QWte-ygPw2_Brb6iwG8O0cO/
 2023-2024 Prospectus - link: https://drive.google.com/file/d/1FEwFJhQlIszg6wTKjjonP4b6v4F0s5vQ/
 
 ### Code of Conduct
