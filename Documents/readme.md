@@ -20,6 +20,8 @@ Prospectus and Value Offering - link: https://drive.google.com/file/d/1aEssdzy99
 
 Why OSTIF? - link: https://ostif.org/why-ostif/
 
+Reasons Why Most Audits Are Still Waiting - link: https://ostif.org/reasons-why/
+
 50th Audit Milestone - link: https://ostif.org/50th-audit-milestone/
 
 ### Documents for Security Audits 
