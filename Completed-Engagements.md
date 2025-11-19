@@ -10,6 +10,17 @@
 
 |       Product       |   Review Date  |             Result            |    Deliverable         ||
 |:-------------------:|:--------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|---|
+| bitcoin core |   November 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [Bitcoin Core Audit Complete!](https://ostif.org/bitcoin-core-audit-complete/)      |  
+| KubeVirt |   November 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [KubeVirt Audit Complete!](https://ostif.org/kubevirt-audit-complete/)      |  
+| GNU libmicrohttpd2 |   September 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [libmicrohttpd2 Audit Complete!](https://ostif.org/gnu-libmicrohttpd2-audit-complete/)      |  
+| OpenSSF Security Scorecard |   October 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [OpenSSF Security Scorecard Audit Complete!](https://ostif.org/openssf-scorecard-audit-complete/)      |  
+| PHP Documentation |   September 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [PHP Documentation Audit Complete!](https://ostif.org/php-documentation-audit-complete/)      |  
+| OpenEXR |   July 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [OpenEXR Audit Complete!](https://ostif.org/openexr-audit-complete/)      | 
+| MaterialX |   July 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [MaterialX Audit Complete!](https://ostif.org/materialx-audit-complete/)       
+| PowSyBl |   July 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [PowSyBl Audit Complete!](https://ostif.org/powsybl-audit-complete/)      
+| conda forge |   July 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [Conda Forge Audit Complete!](https://ostif.org/conda-forge-audit-complete/)     
+| Ruby on Rails |   June 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [Ruby on Rails Audit Complete!](https://ostif.org/ruby-on-rails-audit-complete/)    
+| log4cxx & log4net |   June 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [log4cxx & log4net Audits Complete!](https://ostif.org/volcano-audit-complete/)   
 | Volcano |   June 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [Volcano Audit Complete!](https://ostif.org/volcano-audit-complete/)  
 | Ruby on Rails |   June 2025   |    Manual Code Review, Threat Modeling      |  [Ruby on Rails Audit Complete!](https://ostif.org/ruby-on-rails-audit-complete/)  
 | Log4CXX and Log4Net |   June 2025   |    Manual Code Review, Threat Modeling, Fuzzing      |  [Log4CXX and Log4Net Audits Complete!](https://ostif.org/log4cxx-log4net-audits-complete/)       
