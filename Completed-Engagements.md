@@ -8,8 +8,13 @@
 
 ### The following is a list of engagements organized by OSTIF. PDF versions of the full report(s) can be found at the bottom of the page linked under deliverable.
 
-|       Product       |   Review Date  |    Link to Post and Audit Report         ||
+|       Product       |   Publish Date  |    Link to Post and Audit Report         ||
 |:-------------------:|:--------------:|:------------------------------------------------------------------------------------------------------------:|-|
+| EVerest |   January 2026   |  [EVerest Security Audit Complete!](https://ostif.org/everest-security-audit-complete/)      |
+| CRI-O |   January 2026   |  [CRI-O Audit Complete!](https://ostif.org/cri-o-audit-complete/)      |
+| Kea |   January 2026   |  [Kea Security Audit Complete!](https://ostif.org/kea-security-audit-complete/)      |
+| Thunderbird Send |   December 2025   |  [Thunderbird-Send Audit Complete!](https://ostif.org/thunderbird-send-audit-complete/)      |
+| 25 AI Projects |   December 2025   |  [The Open Source AI Series: A security health check of 25 popular open source AI/LLM projects: Findings and lessons learned](https://ostif.org/25ai-llm-projects/)      |
 | bitcoin core |   November 2025   |  [Bitcoin Core Audit Complete!](https://ostif.org/bitcoin-core-audit-complete/)      |  
 | KubeVirt |   November 2025   |  [KubeVirt Audit Complete!](https://ostif.org/kubevirt-audit-complete/)      |  
 | GNU libmicrohttpd2 |   September 2025   |  [libmicrohttpd2 Audit Complete!](https://ostif.org/gnu-libmicrohttpd2-audit-complete/)      |  
