@@ -10,6 +10,7 @@
 
 |       Product       |   Publish Date  |    Link to Post and Audit Report         ||
 |:-------------------:|:--------------:|:------------------------------------------------------------------------------------------------------------:|-|
+| zlib |   February 2026   |  [zlib Audit Complete!](https://ostif.org/zlib-audit-complete/)      |
 | EVerest |   January 2026   |  [EVerest Security Audit Complete!](https://ostif.org/everest-security-audit-complete/)      |
 | CRI-O |   January 2026   |  [CRI-O Audit Complete!](https://ostif.org/cri-o-audit-complete/)      |
 | Kea |   January 2026   |  [Kea Security Audit Complete!](https://ostif.org/kea-security-audit-complete/)      |
