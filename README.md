@@ -9,7 +9,7 @@ OSTIF adds value to the open-source ecosystem by making it easy for critical pro
 
 #### The result of OSTIF's work is the fixing of vulnerabilities, patching of bugs and more importantly classes of bugs, and improvement in security posture. 
 
-Full Results at Completed-Engagements.md
+Full Results at [Completed-Engagements.md](https://github.com/ostif-org/OSTIF/blob/main/Completed-Engagements.md)
 
 **Linux Kernel**
 
