@@ -1,13 +1,15 @@
 # What is OSTIF?
-The Open Source Technology Improvement Fund, Inc (OSTIF) is a corporate non-profit dedicated to securing critical open source projects. Securing software isn’t easy, and OSTIF knows what it takes to succeed. By facilitating audits and associated work, OSTIF makes it easy for projects to significantly improve security.
+The Open Source Technology Improvement Fund, Inc (OSTIF) is a corporate non-profit dedicated to securing critical open source projects. Securing software is complex, and OSTIF builds on a body of work spanning over 10 years and 20,000 hours of experience. By facilitating focused engagements like security audits, vulnerability fixes, testing improvements, supply chain hardening, and more, OSTIF makes it easy for projects and stakeholders significantly improve security posture.
 
 
 # How does OSTIF add value?
-OSTIF adds value to the open-source ecosystem by making it easy for critical projects and the organizations and communities that depend on these projects to get expert security review. The process focuses on comprehensively improving security posture through closing classes of bugs, fixing vulnerabilities, and improving tooling. 
+OSTIF adds value to the open-source ecosystem by making it easy for critical projects and the organizations and communities that depend on these projects to get expert security review. The process focuses on comprehensively improving security posture through closing classes of bugs, fixing vulnerabilities, and improving tooling. Needs are addressed and gaps in testing are patched. 
 
 # Preview of results:
 
 #### The result of OSTIF's work is the fixing of vulnerabilities, patching of bugs and more importantly classes of bugs, and improvement in security posture. 
+
+Full Results at Completed-Engagements.md
 
 **Linux Kernel**
 
