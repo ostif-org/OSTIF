@@ -15,7 +15,7 @@ Step by Step Process:
 
 1. Select Relevant Projects for Independent Review
 
-Data from multiple sources: Census Studies/Academic Research/Indepdendent 			Research/Community Feedback/ecosystems data
+Data from multiple sources: Census Studies/Academic Research/Indepdendent Research/Community Feedback/ecosystems data
 
 Considering the dependency trees of leading projects
 
@@ -49,7 +49,7 @@ Only consider highly qualified individuals with the skills to review the specifi
 
 Only consider teams that are willing to work in public view
 
-6.Conduct the Audits
+ 6. Conduct the Audits
 
 Work with the lead developers to set up a secure channel for reporting serious bugs
 
@@ -57,7 +57,7 @@ Issues are reported as they are found, not in bulk
 
 Fixes are suggested by the security team if appropriate
 
- 7.Squash All of the Bugs
+  7. Squash All of the Bugs
 
 Wait for security fixes to be applied before publishing (Maximum 90 days unless there are special circumstances)
 
@@ -65,7 +65,7 @@ Security team and lead developers work together to find complete solutions
 
 All severe bugs are reported as CVEs to the relevant CNAs The Project Selection Process
 
- 8. Publish All Results
+  8. Publish All Results
 
 Results published with attribution to funders, along with a synopsis and results of the audit.
 
