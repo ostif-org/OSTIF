@@ -57,7 +57,7 @@ Issues are reported as they are found, not in bulk
 
 Fixes are suggested by the security team if appropriate
 
-7.Squash All of the Bugs
+ 7.Squash All of the Bugs
 
 Wait for security fixes to be applied before publishing (Maximum 90 days unless there are special circumstances)
 
@@ -65,7 +65,7 @@ Security team and lead developers work together to find complete solutions
 
 All severe bugs are reported as CVEs to the relevant CNAs The Project Selection Process
 
-8. Publish All Results
+ 8. Publish All Results
 
 Results published with attribution to funders, along with a synopsis and results of the audit.
 
