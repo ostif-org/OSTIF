@@ -27,9 +27,7 @@
 | PowSyBl |   July 2025   |  [PowSyBl Audit Complete!](https://ostif.org/powsybl-audit-complete/)      
 | conda forge |   July 2025   |  [Conda Forge Audit Complete!](https://ostif.org/conda-forge-audit-complete/)     
 | Ruby on Rails |   June 2025   |  [Ruby on Rails Audit Complete!](https://ostif.org/ruby-on-rails-audit-complete/)    
-| log4cxx & log4net |   June 2025   |  [log4cxx & log4net Audits Complete!](https://ostif.org/volcano-audit-complete/)   
 | Volcano |   June 2025   |  [Volcano Audit Complete!](https://ostif.org/volcano-audit-complete/)  
-| Ruby on Rails |   June 2025   |  [Ruby on Rails Audit Complete!](https://ostif.org/ruby-on-rails-audit-complete/)  
 | Log4CXX and Log4Net |   June 2025   |  [Log4CXX and Log4Net Audits Complete!](https://ostif.org/log4cxx-log4net-audits-complete/)       
 |     nghttp3 and ngtcp2  |   May 2025   |  [nghttp3 and ngtcp2 Audits Complete!](https://ostif.org/nghttp3-ngtcp2-audits-complete/)        |
 |     NATS  |   April 2025   |  [NATS Audit Complete!](https://ostif.org/nats-audit-complete/)        |
