@@ -47,10 +47,12 @@
 |     LitmusChaos  |   August 2024   |  [LitmusChaos Audit Complete!](https://ostif.org/litmuschaos-audit-complete/)               |
 |     Fastify  |   August 2024   |  [Fastify Audit Complete!](https://ostif.org/fastify-audit-complete/)               |
 |     Cloud Native Buildpacks  |   July 2024   |  [Cloud Native Buildpacks Audit Complete!](https://ostif.org/buildpacks-audit-complete/)               |
+|     OpenTelemetry  |   July 2024   |  [OpenTelemetry Audit Complete!](https://ostif.org/otel-audit-complete/)               |
 |     Apache Commons  |   July 2024   |  [Apache Commons Audit Complete!](https://ostif.org/apachec-audit-complete/)               |
 |     CycloneDDS  |   June 2024   |  [CycloneDDS Audit Complete!](https://ostif.org/cyclndds-audit-complete/)               |
 |     Temurin  |   June 2024   |  [Temurin Audit Complete!](https://ostif.org/temurin-audit-complete/)               |
 |     OpenSSL  |   June 2024   |  [OpenSSL Audit Complete!](https://ostif.org/openssl-audit-complete/)               |
+  |     Boost  |   May 2024   |  [Boost Audit Complete!](https://ostif.org/boost-audit-complete/)               |
  |     Kuksa  |   May 2024   |  [Kuksa Audit Complete!](https://ostif.org/kuksa-audit-complete/)               |
  |     Cloud Custodian  |   April 2024   |  [CloudCustodian Audit Complete!](https://ostif.org/cc-audit-complete/)               |
  |     Bref  |   March 2024   |  [bref Audit Complete!](https://ostif.org/bref-audit-complete/)               |
