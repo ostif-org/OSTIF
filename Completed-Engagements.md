@@ -10,6 +10,7 @@
 
 |       Product       |   Publish Date  |    Link to Post and Audit Report         ||
 |:-------------------:|:--------------:|:------------------------------------------------------------------------------------------------------------:|-|
+| Requests, CacheControl, and urllib3 |   April 2026   |  [Requests, CacheControl, and urllib3 Audits Complete!](https://ostif.org/requests-cachecontrol-urllib3-audits-complete/)      |
 | DEfO |   April 2026   |  [DEfO Audit Complete!](https://ostif.org/defo-audit-complete/)      |
 | Stork |   March 2026   |  [Stork Audit Complete!](https://ostif.org/stork-audit-complete/)      |
 | zlib |   February 2026   |  [zlib Audit Complete!](https://ostif.org/zlib-audit-complete/)      |
