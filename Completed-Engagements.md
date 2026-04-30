@@ -10,6 +10,8 @@
 
 |       Product       |   Publish Date  |    Link to Post and Audit Report         ||
 |:-------------------:|:--------------:|:------------------------------------------------------------------------------------------------------------:|-|
+| LibVLC |   April 2026   |  [LibVLC Audit Complete!](https://ostif.org/libvlc-audit-complete/)      |
+| Inspektor Gadget |   April 2026   |  [Inspektor Gadget Audit Complete!](https://ostif.org/inspektor-gadget-audit-complete/)      |
 | Requests, CacheControl, and urllib3 |   April 2026   |  [Requests, CacheControl, and urllib3 Audits Complete!](https://ostif.org/requests-cachecontrol-urllib3-audits-complete/)      |
 | DEfO |   April 2026   |  [DEfO Audit Complete!](https://ostif.org/defo-audit-complete/)      |
 | Stork |   March 2026   |  [Stork Audit Complete!](https://ostif.org/stork-audit-complete/)      |
