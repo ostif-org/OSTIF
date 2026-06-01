@@ -10,6 +10,7 @@
 
 |       Product       |   Publish Date  |    Link to Post and Audit Report         ||
 |:-------------------:|:--------------:|:------------------------------------------------------------------------------------------------------------:|-|
+| Scala |   June 2026   |  [Scala Audit Complete!](https://ostif.org/scala-audit-complete/)      |
 | DARPA AIxCC Challenge |   May 2026   |  [Hack to the Future: The Impact and Legacy of the DARPA AIxCC Challenge](https://ostif.org/hack-to-the-future/)      |
 | Paramiko |   May 2026   |  [Paramiko Audit Complete!](https://ostif.org/paramiko-audit-complete/)      |
 | LibVLC |   April 2026   |  [LibVLC Audit Complete!](https://ostif.org/libvlc-audit-complete/)      |
