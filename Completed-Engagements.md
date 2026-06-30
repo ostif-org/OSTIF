@@ -10,6 +10,7 @@
 
 |       Product       |   Publish Date  |    Link to Post and Audit Report         ||
 |:-------------------:|:--------------:|:------------------------------------------------------------------------------------------------------------:|-|
+| Symfony-YAML |   June 2026   |  [Symfony-YAML Audit Complete!](https://ostif.org/symfony-yaml-audit-complete/)      |
 | KEDA |   June 2026   |  [KEDA Audit Complete!](https://ostif.org/keda-audit-complete/)      |
 | KubeFlow |   June 2026   |  [KubeFlow Audit Complete!](https://ostif.org/kubeflow-audit-complete/)      |
 | BOLT |   June 2026   |  [BOLT Security Engagement Complete!](https://ostif.org/bolt-security-engagement-complete/)      |
