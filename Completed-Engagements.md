@@ -10,6 +10,7 @@
 
 |       Product       |   Publish Date  |    Link to Post and Audit Report         ||
 |:-------------------:|:--------------:|:------------------------------------------------------------------------------------------------------------:|-|
+| Cortex |   July 2026   |  [Cortex Audit Complete!](https://ostif.org/cortex-audit-complete/)      |
 | Symfony-YAML |   June 2026   |  [Symfony-YAML Audit Complete!](https://ostif.org/symfony-yaml-audit-complete/)      |
 | KEDA |   June 2026   |  [KEDA Audit Complete!](https://ostif.org/keda-audit-complete/)      |
 | KubeFlow |   June 2026   |  [KubeFlow Audit Complete!](https://ostif.org/kubeflow-audit-complete/)      |
