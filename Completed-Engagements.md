@@ -10,6 +10,7 @@
 
 |       Product       |   Publish Date  |    Link to Post and Audit Report         ||
 |:-------------------:|:--------------:|:------------------------------------------------------------------------------------------------------------:|-|
+| PyTorch ExecuTorch |   July 2026   |  [PyTorch ExecuTorch Audit Complete!](https://ostif.org/pytorch-executorch-audit-complete/)      |
 | Cortex |   July 2026   |  [Cortex Audit Complete!](https://ostif.org/cortex-audit-complete/)      |
 | Symfony-YAML |   June 2026   |  [Symfony-YAML Audit Complete!](https://ostif.org/symfony-yaml-audit-complete/)      |
 | KEDA |   June 2026   |  [KEDA Audit Complete!](https://ostif.org/keda-audit-complete/)      |
