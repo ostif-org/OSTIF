@@ -1,71 +1,71 @@
 {
     "$schema": "https://fundingjson.org/schema/v1.1.0.json",
 
-    // Optional. Version of the manifest contents.
+    
     "version": "v1.1.0",
 
-    // Required. The entity associated with the project, soliciting funds.
-    // This can be an individual, organisation, community etc.
+    
+    
     "entity": {
-        "type": "organisation",                     // Required. [individual, group, organisation, other]. Use the closest approximation.
-        "role": "steward",                     // Required. [owner, steward, maintainer, contributor, other]. Use the closest approximation.
-        "name": "Open Source Technology Improvement Fund, Inc (OSTIF)",                     // Required. Name of the entity. Max len 250.
-        "email": "tom@ostif.org",                    // Required. Max len 250.
-        "phone": "8472127508",                    // Optional. Generally suitable for organisations. Max len 32.
-        "description": "Open Source Technology Improvement Fund, Inc. (OSTIF) a 501(c)(3) public charity located in metropolitan Chicago, Illinois, is applying for general operating support funding to advance its vital mission to improve the long-term security and sustainability of critical open source software projects. The mission is fulfilled by acting as a neutral “home” to bring together and carefully manage the necessary funding, security researchers and auditors, and maintainers to collaborate and holistically improve security posture for open source projects. Such engagements in open source include security audits, vulnerability analysis and patching, bug fixing, testing, documentation review, and other associated maintenance. With a 98% program fix rate, OSTIF takes steps to provide support, advice, and verified fixes to maintainers addressing reported issues. This kind of aid is desperately needed by projects that are facing an overwhelming tidal wave of disclosures in this boom of AI in security. In the over 100 engagements OSTIF has organized, over 200 individual projects have benefited from security improvements, and many hundreds of maintainers and community members have been involved with improving their project’s security directly. These individuals and projects are across a spectrum of critical industries, highlighting that security support is needed in every form of digital infrastructure and application we use today. OSTIF understands that the generation of security outcomes in open source is ultimately based on human relationships, and that’s where we can help.",              // Required. Information about the entity. Max len 2000.
+        "type": "organisation",                    
+        "role": "steward",                     
+        "name": "Open Source Technology Improvement Fund, Inc (OSTIF)",                     
+        "email": "tom@ostif.org",                   
+        "phone": "8472127508",                   
+        "description": "Open Source Technology Improvement Fund, Inc. (OSTIF) a 501(c)(3) public charity located in metropolitan Chicago, Illinois, is applying for general operating support funding to advance its vital mission to improve the long-term security and sustainability of critical open source software projects. The mission is fulfilled by acting as a neutral “home” to bring together and carefully manage the necessary funding, security researchers and auditors, and maintainers to collaborate and holistically improve security posture for open source projects. Such engagements in open source include security audits, vulnerability analysis and patching, bug fixing, testing, documentation review, and other associated maintenance. With a 98% program fix rate, OSTIF takes steps to provide support, advice, and verified fixes to maintainers addressing reported issues. This kind of aid is desperately needed by projects that are facing an overwhelming tidal wave of disclosures in this boom of AI in security. In the over 100 engagements OSTIF has organized, over 200 individual projects have benefited from security improvements, and many hundreds of maintainers and community members have been involved with improving their project’s security directly. These individuals and projects are across a spectrum of critical industries, highlighting that security support is needed in every form of digital infrastructure and application we use today. OSTIF understands that the generation of security outcomes in open source is ultimately based on human relationships, and that’s where we can help.",              
         "webpageUrl": {
-            "url": "https://www.ostif.org",                  // Required. Webpage with information about the entity. Starts with https:// or http://. Max len 250.
-            "wellKnown": ""             // Optional. If the above URL's hostname does not match the hostname of the funding.json manifest, this establishes provenance. Starts with https:// or http://. Max len 250.
+            "url": "https://www.ostif.org",                  
+            "wellKnown": ""             
         }
     },
 
-    // Optional. One or more projects for which the funding is solicited.
+    
     "projects": [{
-        "guid": "",                     // Required. A short unique ID for the project. Lowercase-alphanumeric-dashes only. eg: my-cool-project. Max len 32.
-        "name": "",                     // Required. Name of the project. Max len 250.
-        "description": "",              // Required. Description of the project. Max len 2000.
+        "guid": "",                     
+        "name": "",                     
+        "description": "",              
         "webpageUrl": {
-            "url": "",                  // Required. Webpage with information about the project. Starts with https:// or http://. Max len 250.
-            "wellKnown": ""             // Optional. If the above URL's hostname does not match the hostname of the funding.json manifest, this establishes provenance. Starts with https:// or http://. Max len 250.
+            "url": "",                  
+            "wellKnown": ""             
         },
         "repositoryUrl": {
-            "url": "https://github.com/ostif-org/OSTIF/tree/main",                  // Required. URL of the repository where the project's source code and other assets are available. Starts with https:// or http://. Max len 250.
-            "wellKnown": ""             // Optional. If the above URL's hostname does not match the hostname of the funding.json manifest, this establishes provenance. Starts with https:// or http://. Max len 250.
+            "url": "https://github.com/ostif-org/OSTIF/tree/main",                  
+            "wellKnown": ""             
         },
-        "licenses": ["spdx:CC-BY-SA-4.0"],                 // Required. The project's licenses (up to 5). For standard licenses, use the license ID from the SDPX index prefixed by "spdx:". eg: "spdx:GPL-3.0", "spdx:CC-BY-SA-4.0".
-        "tags": [“security-review”, “vulnerability-fixing”, “threat-modeling”, “fuzzing-and-dynamic-analysis”, “cicd-tooling”, “bug-triage”, “helping-maintainers”, “security-audit”, “supply-chain-security”]                      // Required. Up to 10 general tags describing the project. Lowercase-alphanumeric-dashes (max 32 chars). eg: ["programming", "developer-tools"]. For reference, see tags.txt
+        "licenses": ["spdx:CC-BY-SA-4.0"],                 
+        "tags": [“security-review”, “vulnerability-fixing”, “threat-modeling”, “fuzzing-and-dynamic-analysis”, “cicd-tooling”, “bug-triage”, “helping-maintainers”, “security-audit”, “supply-chain-security”]                      
     }],
 
-    // Required.
+    
     "funding": {
-        // Required. This describes one or more channels via which the entity can receive funds.
+        
         "channels": [{
-            "guid": "ostif-channel",                 // Required. A short unique ID for the channel. Lowercase-alphanumeric-dashes only. eg: mybank, my-paypal. Max len 32.
-            "type": "bank",                 // Required. [bank, payment-provider, cheque, cash, other].
-            "address": "",              // Optional. A short unstructured textual representation of the payment address for the channel. eg: "Account: 12345 (branch: ABCX)", "mypaypal@domain.com", "https://payment-url.com", or a physical address for cheques. Max len 250.
-            "description": ""           // Optional. Any additional description or instructions for the payment channel. Max len 500.
+            "guid": "ostif-channel",                 
+            "type": "bank",                 
+            "address": "",              
+            "description": ""           
         }],
 
-        // Required. One or more funding and payment plans.
+        
         "plans": [{
-            "guid": "ostif-plan",                 // Required. A short unique ID for the plan. Lowercase-alphanumeric-dashes only. eg: mybank, paypal. Max len 32.
-            "status": "active",               // Required. [active, inactive]. Indicates whether this plan is currently active or inactive.
-            "name": "Critical OSS Project Security Maintenance Program",                 // Required. Name of the funding plan. eg: "Starter support plan", "Infra hosting", "Monthly funding plan".
-            "description": "Funding to continue fulfilling our mission and help more projects",          // Optional. Any additional description or instructions for the funding plan.
-            "amount": 50000,                // Required. The solicited amount for this plan. 0 is a wildcard that indicates "any amount".
-            "currency": "USD",             // Required. Three letter ISO 4217 currency code. eg: USD
-            "frequency": "yearly",            // Required. [one-time, weekly, fortnightly, monthly, yearly, other]
-            "channels": ["ostif-channel"]              // Required. One or more channel IDs defined in channels[] via which this plan can accept payments.
+            "guid": "ostif-plan",                 
+            "status": "active",               
+            "name": "Critical OSS Project Security Maintenance Program",               
+            "description": "Funding to continue fulfilling our mission and help more projects",          
+            "amount": 50000,                
+            "currency": "USD",             
+            "frequency": "yearly",            
+            "channels": ["ostif-channel"]              
         }],
 
-        // Optional. A simple summary of funding history. Only include if at least one, either income or expenses, have to be communicated.
+        
         "history": [{
-            "year": 2024,               // Required. Year (fiscal, preferably).
-            "income": 0,                // Optional.
-            "expenses": 0,              // Optional.
-            "taxes": 0,                 // Optional.
-            "currency": "",             // Required. Three letter ISO 4217 currency code. eg: USD
-            "description": ""           // Optional. Any additional description. Max length 500.
+            "year": 2024,               
+            "income": 0,                
+            "expenses": 0,              
+            "taxes": 0,                 
+            "currency": "",             
+            "description": ""           
         }]
     }
 }
