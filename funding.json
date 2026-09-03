@@ -33,7 +33,7 @@
             "wellKnown": ""             
         },
         "licenses": ["spdx:CC-BY-SA-4.0"],                 
-        "tags": [“security-review”, “vulnerability-fixing”, “threat-modeling”, “fuzzing-and-dynamic-analysis”, “cicd-tooling”, “bug-triage”, “helping-maintainers”, “security-audit”, “supply-chain-security”]                      
+        "tags": [“vulnerability-fixing”, “threat-modeling”, “fuzzing-and-dynamic-analysis”, “cicd-tooling”, “bug-triage”, “helping-maintainers”, “security-audit”, “supply-chain-security”]                      
     }],
 
     
