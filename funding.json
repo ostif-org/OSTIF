@@ -33,7 +33,7 @@
             "wellKnown": ""             
         },
         "licenses": ["spdx:CC-BY-SA-4.0"],                 
-        "tags": [“vulnerability-fixing”, “threat-modeling”, “cicd-tooling”, “helping-maintainers”, “security-audit”, “supply-chain-security”]                      
+        "tags": [“fixes”, “threat-modeling”, “cicd-tooling”, “helping-maintainers”, “security-audit”, “supply-chain-security”]                      
     }],
 
     
