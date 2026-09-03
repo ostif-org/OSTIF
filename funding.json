@@ -34,7 +34,7 @@
         },
         "licenses": ["spdx:CC-BY-SA-4.0"],                 
         "tags": [“fixes”, “audits”, “cicd”, “supply-chain”]                      
-    }],
+    },
 
     
     "funding": {
