@@ -32,7 +32,7 @@
             "url": "https://github.com/ostif-org/OSTIF/tree/main",                  // Required. URL of the repository where the project's source code and other assets are available. Starts with https:// or http://. Max len 250.
             "wellKnown": ""             // Optional. If the above URL's hostname does not match the hostname of the funding.json manifest, this establishes provenance. Starts with https:// or http://. Max len 250.
         },
-        "licenses": ["spdx:CC-BY-SA-4.0"],                 // Required. The project's licenses (up to 5). For standard licenses, use the license ID from the SDPX index prefixed by "spdx:". eg: "spdx:GPL-3.0", "spdx:CC-BY-SA-4.0"
+        "licenses": ["spdx:CC-BY-SA-4.0"],                 // Required. The project's licenses (up to 5). For standard licenses, use the license ID from the SDPX index prefixed by "spdx:". eg: "spdx:GPL-3.0", "spdx:CC-BY-SA-4.0".
         "tags": [“security-review”, “vulnerability-fixing”, “threat-modeling”, “fuzzing-and-dynamic-analysis”, “cicd-tooling”, “bug-triage”, “helping-maintainers”, “security-audit”, “supply-chain-security”]                      // Required. Up to 10 general tags describing the project. Lowercase-alphanumeric-dashes (max 32 chars). eg: ["programming", "developer-tools"]. For reference, see tags.txt
     }],
 
