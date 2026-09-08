@@ -33,7 +33,7 @@
             "wellKnown": ""             
         },
         "licenses": ["spdx:CC-BY-SA-4.0"],                 
-        "tags" ["fixes", "audits", "supply-chain", "cicd"]:                      
+        "tags" ["fixes", "audits", "supply-chain", "cicd"]                      
     }],
 
     
