@@ -1,72 +1,37 @@
 {
-    "$schema": "https://fundingjson.org/schema/v1.1.0.json",
-
-    
-    "version": "v1.1.0",
-
-    
-    
-    "entity": {
-        "type": "organisation",                    
-        "role": "steward",                     
-        "name": "Open Source Technology Improvement Fund, Inc (OSTIF)",                     
-        "email": "tom@ostif.org",                   
-        "phone": "8472127508",                   
-        "description": "Open Source Technology Improvement Fund, Inc. (OSTIF) a 501(c)(3) public charity located in metropolitan Chicago, Illinois, is applying for general operating support funding to advance its vital mission to improve the long-term security and sustainability of critical open source software projects. The mission is fulfilled by acting as a neutral “home” to bring together and carefully manage the necessary funding, security researchers and auditors, and maintainers to collaborate and holistically improve security posture for open source projects. Such engagements in open source include security audits, vulnerability analysis and patching, bug fixing, testing, documentation review, and other associated maintenance. With a 98% program fix rate, OSTIF takes steps to provide support, advice, and verified fixes to maintainers addressing reported issues. This kind of aid is desperately needed by projects that are facing an overwhelming tidal wave of disclosures in this boom of AI in security. In the over 100 engagements OSTIF has organized, over 200 individual projects have benefited from security improvements, and many hundreds of maintainers and community members have been involved with improving their project’s security directly. These individuals and projects are across a spectrum of critical industries, highlighting that security support is needed in every form of digital infrastructure and application we use today. OSTIF understands that the generation of security outcomes in open source is ultimately based on human relationships, and that’s where we can help.",              
-        "webpageUrl": {
-            "url": "https://www.ostif.org",                  
-            "wellKnown": ""             
-        }
-    },
-
-    
-    "projects": [{
-        "guid": "",                     
-        "name": "",                     
-        "description": "",              
-        "webpageUrl": {
-            "url": "",                  
-            "wellKnown": ""             
-        },
-        "repositoryUrl": {
-            "url": "https://github.com/ostif-org/OSTIF/tree/main",                  
-            "wellKnown": ""             
-        },
-        "licenses": ["spdx:CC-BY-SA-4.0"],                 
-        "tags" ["fixes", "audits", "supply-chain", "cicd"]                      
-    }],
-
-    
-    "funding": {
-        
-        "channels": [{
-            "guid": "ostif-channel",                 
-            "type": "bank",                 
-            "address": "",              
-            "description": ""           
-        }],
-
-        
-        "plans": [{
-            "guid": "ostif-plan",                 
-            "status": "active",               
-            "name": "Critical OSS Project Security Maintenance Program",               
-            "description": "Funding to continue fulfilling our mission and help more projects",          
-            "amount": 50000,                
-            "currency": "USD",             
-            "frequency": "yearly",            
-            "channels": ["ostif-channel"]              
-        }],
-
-        
-        "history": [{
-            "year": 2024,               
-            "income": 0,                
-            "expenses": 0,              
-            "taxes": 0,                 
-            "currency": "",             
-            "description": ""           
-        }]
+  "version": "v1.0.0",
+  "entity": {
+    "type": "organisation",
+    "role": "steward",
+    "name": "Open Source Technology Improvement Fund, Inc (OSTIF)",
+    "email": "tom@ostif.org",
+    "phone": "8472127508",
+    "description": "Open Source Technology Improvement Fund, Inc. (OSTIF) a 501(c)(3) public charity located in metropolitan Chicago, Illinois, is applying for general operating support funding to advance its vital mission to improve the long-term security and sustainability of critical open source software projects. The mission is fulfilled by acting as a neutral “home” to bring together and carefully manage the necessary funding, security researchers and auditors, and maintainers to collaborate and holistically improve security posture for open source projects. Such engagements in open source include security audits, vulnerability analysis and patching, bug fixing, testing, documentation review, and other associated maintenance. With a 98% program fix rate, OSTIF takes steps to provide support, advice, and verified fixes to maintainers addressing reported issues. This kind of aid is desperately needed by projects that are facing an overwhelming tidal wave of disclosures in this boom of AI in security. In the over 100 engagements OSTIF has organized, over 200 individual projects have benefited from security improvements, and many hundreds of maintainers and community members have been involved with improving their project’s security directly. These individuals and projects are across a spectrum of critical industries, highlighting that security support is needed in every form of digital infrastructure and application we use today. OSTIF understands that the generation of security outcomes in open source is ultimately based on human relationships, and that’s where we can help.",
+    "webpageUrl": {
+      "url": "https://www.ostif.org"
     }
+  },
+  "projects": [],
+  "funding": {
+    "channels": [
+      {
+        "guid": "ostif-channel",
+        "type": "bank"
+      }
+    ],
+    "plans": [
+      {
+        "guid": "ostif-channel",
+        "status": "active",
+        "name": "Critical OSS Project Security Maintenance Program",
+        "amount": 49999.97,
+        "currency": "USD",
+        "frequency": "yearly",
+        "channels": [
+          "ostif-channel"
+        ]
+      }
+    ],
+    "history": []
+  }
 }
-
