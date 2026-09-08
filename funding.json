@@ -11,7 +11,32 @@
       "url": "https://www.ostif.org"
     }
   },
-  "projects": [],
+  "projects": [
+    {
+      "guid": "ostif-body-of-work",
+      "name": "OSTIF Track Record",
+      "description": "Track record of over 100 security engagements helping critical open source projects. ",
+      "webpageUrl": {
+        "url": "https://ostif.org/news/"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/ostif-org/OSTIF/tree/main"
+      },
+      "licenses": [
+        "spdx:CC-BY-SA-4.0"
+      ],
+      "tags": [
+        "security-review",
+        "vulnerability-fixing",
+        "threat-modeling",
+        "fuzzing-and-dynamic-analysis",
+        "CI/CD-tooling",
+        "bug-triage",
+        "helping-maintainers",
+        "supply-chain-security"
+      ]
+    }
+  ],
   "funding": {
     "channels": [
       {
@@ -24,7 +49,7 @@
         "guid": "ostif-channel",
         "status": "active",
         "name": "Critical OSS Project Security Maintenance Program",
-        "amount": 49999.97,
+        "amount": 50000,
         "currency": "USD",
         "frequency": "yearly",
         "channels": [
