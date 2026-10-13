@@ -10,6 +10,9 @@
 
 |       Product       |   Publish Date  |    Link to Post and Audit Report         ||
 |:-------------------:|:--------------:|:------------------------------------------------------------------------------------------------------------:|-|
+| Power Grid Model |   October 2026   |  [Power Grid Model Audit Complete!](https://ostif.org/power-grid-model-audit-complete/)      |
+| Scala3 Supply-Chain |   October 2026   |  [Scala3 Supply-Chain Security Review and Improvements Complete!](https://ostif.org/scala3-supply-chain-security-complete/)      |
+| vLLM |   October 2026   |  [vLLM Audit Complete!](https://ostif.org/vllm-audit-complete/)      |
 | louis-rs |   September 2026   |  [louis-rs Audit Complete!](https://ostif.org/louis-rs-audit-complete/)      |
 | PyTorch ExecuTorch |   July 2026   |  [PyTorch ExecuTorch Audit Complete!](https://ostif.org/pytorch-executorch-audit-complete/)      |
 | Cortex |   July 2026   |  [Cortex Audit Complete!](https://ostif.org/cortex-audit-complete/)      |
