@@ -8,7 +8,7 @@
 
 ### The following is a list of engagements organized by OSTIF. PDF versions of the full report(s) can be found at the bottom of the page linked under deliverable.
 
-|       Product       |   Publish Date  |    Link to Post and Audit Report         ||
+|       Project       |   Publish Date  |    Link to Post and Audit Report         ||
 |:-------------------:|:--------------:|:------------------------------------------------------------------------------------------------------------:|-|
 | Kubernetes|   November 2026   |  [Kubernetes Audit Complete!](https://ostif.org/kubernetes-audit-complete/)      |
 | Mbed-TLS|   October 2026   |  [Mbed-TLS Audit Complete!](https://ostif.org/mbed-tls-audit-complete/)      |
