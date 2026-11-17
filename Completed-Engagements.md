@@ -10,6 +10,7 @@
 
 |       Project       |   Publish Date  |    Link to Post and Audit Report         ||
 |:-------------------:|:--------------:|:------------------------------------------------------------------------------------------------------------:|-|
+| io_uring|   November 2026   |  [io_uring Audit Complete!](https://ostif.org/io_uring-audit-complete/)      |
 | Kubernetes|   November 2026   |  [Kubernetes Audit Complete!](https://ostif.org/kubernetes-audit-complete/)      |
 | Mbed-TLS|   October 2026   |  [Mbed-TLS Audit Complete!](https://ostif.org/mbed-tls-audit-complete/)      |
 | Power Grid Model |   October 2026   |  [Power Grid Model Audit Complete!](https://ostif.org/power-grid-model-audit-complete/)      |
