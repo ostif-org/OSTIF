@@ -10,6 +10,7 @@
 
 |       Project       |   Publish Date  |    Link to Post and Audit Report         ||
 |:-------------------:|:--------------:|:------------------------------------------------------------------------------------------------------------:|-|
+| CoMPAS|   November 2026   |  [CoMPAS Audit Complete!](https://ostif.org/compas-audit-complete/)      |
 | LangChain|   November 2026   |  [LangChain Audit Complete!](https://ostif.org/langchain-audit-complete/)      |
 | io_uring|   November 2026   |  [io_uring Audit Complete!](https://ostif.org/io_uring-audit-complete/)      |
 | Kubernetes|   November 2026   |  [Kubernetes Audit Complete!](https://ostif.org/kubernetes-audit-complete/)      |
